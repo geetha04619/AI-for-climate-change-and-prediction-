@@ -50,4 +50,3 @@ plt.title('Climate Change Prediction')
 plt.legend()
 plt.grid(True)
 plt.show()
-
